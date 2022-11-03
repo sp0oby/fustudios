@@ -1,0 +1,15 @@
+# Blender MTL File: 'ShitizensCheatWebsite.blend'
+# Material Count: 1
+
+newmtl sinktop
+Ns 119.338862
+Ka 0.877692 0.877692 0.877692
+Kd 0.800000 0.800000 0.800000
+Ks 0.527402 0.527402 0.527402
+Ke 0.017380 0.017380 0.017380
+Ni 0.000000
+d 1.000000
+illum 3
+map_Kd SinkTop.png
+map_Ke SinkTop.png
+map_d SinkTop.png
